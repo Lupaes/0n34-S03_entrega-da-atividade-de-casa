@@ -12,9 +12,9 @@
 
  Kms viajados | Valor por Km
  
-   Até 200          R$ 0,75       
-   Até 500          R$ 0,60    
- mais de 500        R$ 0,50     
+   Até 200        R$ 0,75       
+   Até 500        R$ 0,60    
+mais de 500        R$ 0,50     
 
 
 ⛔ Seu programa não pode deixar o usuário:
