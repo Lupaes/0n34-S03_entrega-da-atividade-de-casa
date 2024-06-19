@@ -8,16 +8,13 @@
 - **Valor por Kilometragem**: 
 - **Custo fixo da passagem**: *
 
--**Tabela de referência a ser utilizada**:
+-**Referência a ser utilizada**:
 
-| Kms viajados | Valor por Km |
-|_ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ |
-|  Até 200       |   R$ 0,75      | 
-|_ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ |
-|     Até 500    |    R$ 0,60    
-|_ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ |
-| mais de 500    |    R$ 0,50     |
-|_ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ |
+ Kms viajados | Valor por Km 
+   Até 200        R$ 0,75       
+   Até 500        R$ 0,60    
+ mais de 500      R$ 0,50     
+
 
 ⛔ Seu programa não pode deixar o usuário:
 
