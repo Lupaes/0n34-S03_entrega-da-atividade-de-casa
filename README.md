@@ -10,7 +10,8 @@
 
 -**Referência a ser utilizada**:
 
- Kms viajados | Valor por Km 
+ Kms viajados | Valor por Km
+ 
    Até 200        R$ 0,75       
    Até 500        R$ 0,60    
  mais de 500      R$ 0,50     
